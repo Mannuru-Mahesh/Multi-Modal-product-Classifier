@@ -1,0 +1,21 @@
+# Core data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Image processing
+Pillow==10.3.0
+scikit-image==0.22.0
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Notebook support
+jupyter==1.0.0
+nbformat==5.10.4
+
+# Model persistence
+joblib==1.4.2
